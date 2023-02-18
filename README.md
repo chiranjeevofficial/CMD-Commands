@@ -10,3 +10,8 @@
         ```linux
         netsh wlan show profile name="profile_name" key=clear
         ``` 
+
+    - Mount image file
+	```linux
+	Mount-DiskImage -Imagepath "paste_image_path_here"
+	```
