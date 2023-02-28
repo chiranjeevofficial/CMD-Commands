@@ -18,5 +18,10 @@
 
 - Redmi 5A BOIS Entry
     ```linux
-    press & hold the <kbd>VOLUME UP</kbd> and <kbd>POWER</kbd> button till start the phone and after start release the <kbd>POWER</kbd> button.
+    press & hold the <kbd>VOLUME UP</kbd> + <kbd>POWER</kbd> button till start the phone and after start release the <kbd>POWER</kbd> button.
+    ```
+
+- Download Apache NetBeans 17
+    ```linux
+    https://dlcdn.apache.org/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe
     ```
